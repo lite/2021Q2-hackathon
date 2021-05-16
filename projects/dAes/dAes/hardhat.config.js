@@ -1,5 +1,7 @@
 require("@nomiclabs/hardhat-waffle");
 
+require("./tasks/faucet");
+
 /**
  * @type import('hardhat/config').HardhatUserConfig
  */
